@@ -81,6 +81,8 @@
             android:textSize="16sp"
             android:drawableEnd="@drawable/arrow_right"
             android:paddingHorizontal="90dp"
+            android:elevation="8dp"
+            android:outlineSpotShadowColor="@color/turquoise_1"
             />
 
     </androidx.appcompat.widget.LinearLayoutCompat>
